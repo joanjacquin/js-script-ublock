@@ -1,3 +1,4 @@
+///deezer.js
 setInterval(function() {
                 const link = document.querySelector('div.centered_box button');
                 if (link) {

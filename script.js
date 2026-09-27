@@ -9,7 +9,7 @@ setInterval(function() {
 
 /// songsterr.js
 setInterval(function() {
-                const link = document.querySelector('.rq1ph a');
+                const link = document.querySelector('._2e9mvq_afterButtons');
                 if (link) {
                     link.click();
                 }
